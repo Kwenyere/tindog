@@ -65,7 +65,7 @@ p{
   width: 20%;
   transform: rotate(25deg);
   position: absolute;
-  margin-right: 50%;
+  margin-left: 10%;
 }
 /* section id features */
 
@@ -129,7 +129,8 @@ p{
     position: static;
     transform: rotate(0);
     width: 60%;
-    margin: 0 50px;
+    margin:  0 20%;
+    
   }
   
 }
